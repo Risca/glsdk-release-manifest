@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://git.ti.com" name="ti"/>
+  <remote fetch="git://git.omapzoom.org" name="omapzoom"/>
+  <remote fetch="git://git.openembedded.org" name="oe"/>
+  <remote fetch="git://git.linaro.org/openembedded" name="linaro"/>
+  <remote fetch="git://arago-project.org/git/projects" name="arago"/>
+
+   <project remote="ti"  path="." name="glsdk/glsdk" revision="f5e759636df33b99312c4e0403f792233b5da63c"/>
+   <project remote="omapzoom"  path="board-support/linux" name="kernel/omap" revision="2cbc3a70ebf8b30a3dcdf21a54b7e3d6703e1e03"/>
+   <project remote="omapzoom"  path="board-support/u-boot" name="repo/u-boot" revision="88cb4f3898115cee8294147cd74914bf1dbf7f88"/>
+   <project remote="ti"  path="board-support/external-linux-kernel-modules/omap5-sgx-ddk-linux" name="graphics/omap5-sgx-ddk-linux" revision="c13efb766a8fc680374ae7affc6df535f823bacb"/>
+   <project remote="ti"  path="component-sources/ipc_3_43_01_03" name="ipc/ipcdev" revision="eb4e543f60cccf427d47900014bcf9a5ae413cd6"/>
+   <project remote="ti"  path="component-sources/dspdce_1_00_00_06" name="glsdk/dspdce" revision="3b9cea492f23d7dabb9ffa0e69631b858ba8e90a"/>
+   <project remote="ti"  path="component-sources/ipumm_3_00_11_00" name="ivimm/ipumm" revision="7c283ebc252223a728cb542dbc10c3ca0ab53e59"/>
+   <project remote="arago"  path="yocto-layers" name="oe-layersetup" revision="8de372ee2f41c6bba32c532a712cc4c00be3a259"/>
+   <project remote="ti"  path="component-sources/linuxutils_4_11_00_01" name="ipc/ludev" revision="3d3b0daa49e2d6ec0c83ae89e229b409fd7a36d2"/>
+
+</manifest>
