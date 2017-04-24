@@ -14,6 +14,6 @@
    <project remote="ti"  path="component-sources/dspdce_1_00_00_08" name="glsdk/dspdce" revision="3b9cea492f23d7dabb9ffa0e69631b858ba8e90a"/>
    <project remote="ti"  path="component-sources/ipumm_3_00_13_00" name="ivimm/ipumm" revision="fd441443a4289c801a0c8d9f00b6966f7fe3476c"/>
    <project remote="arago"  path="yocto-layers" name="oe-layersetup" revision="94f0226acebdc9fdde9bb0a6e01236726435901b"/>
-   <project remote="ti"  path="component-sources/linuxutils_4_12_00_00" name="ipc/ludev" revision="d6d3e84c84d0e84a9b96c3f6f789ac642d03afcb"/>
+   <project remote="ti"  path="component-sources/linuxutils_4_12_00_00" name="ipc/ludev" revision="1389059f01eabc1e853a384f0e5f51c4f3e4f197"/>
 
 </manifest>
