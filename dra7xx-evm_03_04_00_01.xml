@@ -8,7 +8,7 @@
 
    <project remote="ti"  path="." name="glsdk/glsdk" revision="7e20dab01e0a32b0b3c263c5a380c2f1a81b6f77"/>
    <project remote="omapzoom"  path="board-support/linux" name="kernel/omap" revision="e2f5adb59c7dcfd3172fa31c404911417641b5d0"/>
-   <project remote="omapzoom"  path="board-support/u-boot" name="repo/u-boot" revision="c8a0b5ceb8d530d0b0402b826799e81e8bcfccaa"/>
+   <project remote="omapzoom"  path="board-support/u-boot" name="repo/u-boot" revision="14464da777559f7945c50f680f94ddd0cf2fcb0a"/>
    <project remote="ti"  path="board-support/external-linux-kernel-modules/omap5-sgx-ddk-linux" name="graphics/omap5-sgx-ddk-linux" revision="fd47e44b18944cf7ade480ac67a9c0172619ff7e"/>
    <project remote="ti"  path="component-sources/ipc_3_47_00_00" name="ipc/ipcdev" revision="e576990e3a220ad394b287588c1c7e85e8644d23"/>
    <project remote="ti"  path="component-sources/ipumm_3_00_14_00" name="ivimm/ipumm" revision="01bbb622267b687fa05e42062b146ad7a22e7afd"/>
