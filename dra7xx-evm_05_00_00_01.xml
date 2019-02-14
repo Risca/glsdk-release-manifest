@@ -3,7 +3,7 @@
   <remote fetch="git://git.ti.com" name="ti"/>
   <remote fetch="git://arago-project.org/git/projects" name="arago"/>
 
-   <project remote="ti"  path="." name="glsdk/glsdk" revision="a9870f05630435e16b4b4fb98f94ffcc9427918a"/>
+   <project remote="ti"  path="." name="glsdk/glsdk" revision="c9d7c7402b391bb0cb4bfcdc662d2efb63accfaf"/>
    <project remote="ti"  path="board-support/linux" name="ti-linux-kernel/ti-linux-kernel" revision="3438de34744b2eba32456bf8e3f44b19e3061331"/>
    <project remote="ti"  path="board-support/u-boot" name="ti-u-boot/ti-u-boot" revision="eac41e26ac56fcabf9826b21377931c7b8e646f2"/>
    <project remote="ti"  path="board-support/external-linux-kernel-modules/omap5-sgx-ddk-linux" name="graphics/omap5-sgx-ddk-linux" revision="d2b3959738cfcc6209e8e882d1989de790866c8f"/>
