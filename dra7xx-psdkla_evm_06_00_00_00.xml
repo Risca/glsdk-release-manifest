@@ -5,7 +5,7 @@
 
    <project remote="ti"  path="." name="glsdk/glsdk" revision="df82670cddbc6502de5072a96daff99b7f247f43"/>
    <project remote="ti"  path="board-support/linux" name="glsdk/psdkla-kernel" revision="31275c05a198740eb32af81c64d1f2fb7cd3b201"/>
-   <project remote="ti"  path="board-support/u-boot" name="glsdk/psdkla-u-boot" revision="cdbd4eb9722807958a0aa9988c480bfd6e260178"/>
+   <project remote="ti"  path="board-support/u-boot" name="glsdk/psdkla-u-boot" revision="a0ff74425a6ea6690f0cc6c7256b71b76b18b12a"/>
    <project remote="ti"  path="board-support/external-linux-kernel-modules/omap5-sgx-ddk-linux" name="graphics/omap5-sgx-ddk-linux" revision="4519ed3b83d1d72207ddc2874c7eb5e5a7f20d8d"/>
    <project remote="ti"  path="component-sources/ipc_3_50_04_07" name="ipc/ipcdev" revision="129b6f44c50cbe760a5c1481b34b323b7a42ead5"/>
    <project remote="ti"  path="component-sources/ipumm_3_00_15_00" name="ivimm/ipumm" revision="e4872a8966a267d537399b1babc54e5f66ae8b3b"/>
